@@ -1,7 +1,9 @@
 👁️ Visionary Touchless Innovation
+
 This repository contains a collection of Python scripts dedicated to enabling touchless and voice-controlled interaction with a computer system. By leveraging computer vision, facial recognition, and voice commands, this project aims to create a more intuitive, hygienic, and accessible user experience.
 
 ✨ Features
+
 The project is built on modular Python scripts, each focused on a specific touchless control capability:
 Script,Description
 Mouse_control.py,Allows full control of the mouse cursor and clicks using hand gestures captured by the webcam.
@@ -12,6 +14,7 @@ keyboard.py,"Provides a foundation for controlling keyboard inputs through non-t
 B_Vcontrol.py,Enables touchless control over system functions like Screen Brightness and Volume using hand or face movements.
 
 💻 Technology Stack
+
 Language: Python (100%)
 
 Core Libraries: Likely uses established Computer Vision libraries such as:
@@ -25,6 +28,7 @@ pyautogui (for system control/virtual mouse/keyboard)
 dlib (for facial recognition, if used in face_lock.py)
 
 💻 Technology Stack
+
 Language: Python (100%)
 
 Core Libraries: Likely uses established Computer Vision libraries such as:
@@ -41,6 +45,7 @@ git clone https://github.com/Kuldeep8081/Visionary_Touchless_Innovation.git
 cd Visionary_Touchless_Innovation
 
 3. Install Dependencies
+4. 
 You will need to install the necessary Python libraries. While the exact list is dependent on the internal code, the following command should cover the likely major packages:
 
 # This is a suggested installation command
